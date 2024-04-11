@@ -1,0 +1,4 @@
+public class a{
+void m1(){
+}
+}
